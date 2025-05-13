@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.logging.Logger;
 // Adding a change for the GUI commit :) 
+//Adding a second line for the IDE Commit
 public class GradeCalculator {
 
     private static final Logger logger = Logger.getLogger(GradeCalculator.class.getName()); 
